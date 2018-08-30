@@ -10,7 +10,7 @@ bot.on("ready", () => {
 });
 
 
-bot.login("napacan")
+bot.login(process.env.Bot.login)
 
 bot.on("message", message => {
 
