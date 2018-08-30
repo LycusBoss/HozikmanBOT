@@ -10,7 +10,7 @@ bot.on("ready", () => {
 });
 
 
-bot.login("NDU4NTI2NTg4MzgwNjQzMzI4.DmizTg.DfJjAvamCkvq5LP0tyIVezFsBt8")
+bot.login("napacan")
 
 bot.on("message", message => {
 
